@@ -10,11 +10,17 @@ They were introduced to JvaScript with ES6.
 
 They are easy to use and make code more readable
 
-instead of single quotes (') or double quotes (") quotes we use the backtick (`) character. This will produce a new string, and we can use it in any way we want.
+instead of single quotes (') or double quotes (") quotes we use the backtick (`) character. 
+This will produce a new string, and we can use it in any way we want.
 
+The back tick is on the left side of your keyboard below the escape button and above the tab button
 
 // STRING CONCATENATION
 console.log('four plus two is ' + (4 + 2) + '.');
 
 // TEMPLATE LITERALS
-console.log(`four plus two is ${4 + 2}.`);// "four plus two is 6."
+console.log(`four plus two is ${4 + 2}.`);
+
+// "four plus two is 6."
+
+The dollar sign $ is an object identifier
